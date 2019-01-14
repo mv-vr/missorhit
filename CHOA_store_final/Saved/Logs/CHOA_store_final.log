@@ -852,3 +852,153 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.14-18.10.08:757][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2019.01.14-18.10.08:757][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
 [2019.01.14-18.10.08:848][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.14-18.13.58:159][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-18.15.08:954][558]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (42.614 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.14-18.15.13:733][597]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.14-18.15.13:753][597]LogAssetTools: Warning: Failed to import 'C:\Users\VR Admin\Documents\Unreal Projects\CHOA2\Content\Shelf_M.uasset'. Unknown extension 'uasset'.
+[2019.01.14-18.15.37:216][782]LogAssetEditorManager: Opening Asset editor for Material /Game/Shelf_M.Shelf_M
+[2019.01.14-18.15.37:220][782]LogMaterial: Display: Missing cached shader map for material Shelf_M, compiling. 
+[2019.01.14-18.15.37:526][782]LogMaterial: Display: Missing cached shader map for material Shelf_M, compiling. 
+[2019.01.14-18.15.37:554][782]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-18.15.37:554][782]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-18.15.37:554][782]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-18.15.37:554][782]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-18.15.37:568][782]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-18.15.37:600][782]LogSlate: Took 0.006753 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.14-18.15.37:768][783]LogSlate: Took 0.009677 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.14-18.15.37:977][795]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-18.15.38:027][798]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-18.15.38:027][798]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-18.15.38:027][798]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-18.15.38:145][805]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-18.15.38:178][807]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-18.15.38:192][808]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-18.15.38:210][809]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-18.15.38:310][815]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-18.15.38:512][827]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-18.15.38:645][835]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-18.15.38:712][839]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-18.15.38:795][844]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-18.15.38:946][853]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-18.15.38:994][856]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-18.15.39:213][869]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-18.15.39:261][872]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-18.15.39:328][876]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-18.15.39:427][882]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-18.15.39:669][896]MaterialEditorStats: Base pass shader: 161 instructions
+[2019.01.14-18.15.39:669][896]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2019.01.14-18.15.39:669][896]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2019.01.14-18.15.39:669][896]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-18.15.40:569][950]LogSlate: Window 'Shelf_M' being destroyed
+[2019.01.14-18.15.40:574][950]LogSlate: Window 'Shelf_M' being destroyed
+[2019.01.14-18.16.01:945][167]LogSavePackage: Moving '../../../../../../Users/VR Admin/Documents/GitHub/missorhit/CHOA_store_final/Saved/StartupMap9575914648379EF3D6FF6A92CAE7D9A5.tmp' to '../../../../../../Users/VR Admin/Documents/GitHub/missorhit/CHOA_store_final/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2019.01.14-18.16.02:010][167]LogSavePackage: Moving '../../../../../../Users/VR Admin/Documents/GitHub/missorhit/CHOA_store_final/Saved/StartupMap_BuiltDataB3B27F194719B5C933D97E9E0BE8244E.tmp' to '../../../../../../Users/VR Admin/Documents/GitHub/missorhit/CHOA_store_final/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset'
+[2019.01.14-18.16.52:425][843]LogSlate: Window 'New Level' being destroyed
+[2019.01.14-18.16.52:431][843]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.14-18.16.52:448][843]LightingResults: New page: Lighting Build
+[2019.01.14-18.16.52:449][843]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.01.14-18.16.52:451][843]MapCheck: New page: Map Check
+[2019.01.14-18.16.52:451][843]LightingResults: New page: Lighting Build
+[2019.01.14-18.16.52:611][843]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.14-18.16.52:620][843]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.14-18.16.52:652][843]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.14-18.16.52:652][843]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2019.01.14-18.16.52:652][843]LogFileHelpers: Loading map 'Template_Default' took 0.222
+[2019.01.14-18.17.03:259][462]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.01.14-18.17.03:268][462]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2019.01.14-18.17.03:290][462]Cmd: MAP LOAD FILE="../../../../../../Users/VR Admin/Documents/GitHub/missorhit/CHOA_store_final/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.14-18.17.03:290][462]LightingResults: New page: Lighting Build
+[2019.01.14-18.17.03:291][462]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.01.14-18.17.03:291][462]MapCheck: New page: Map Check
+[2019.01.14-18.17.03:291][462]LightingResults: New page: Lighting Build
+[2019.01.14-18.17.03:317][462]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.14-18.17.03:359][462]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.14-18.17.03:360][462]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2019.01.14-18.17.03:360][462]LogFileHelpers: Loading map 'MotionControllerMap' took 0.070
+[2019.01.14-18.17.12:273][995]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube37)
+[2019.01.14-18.17.17:203][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-18.17.17:309][293]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2019.01.14-18.17.17:746][293]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.01.14-18.17.18:397][293]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2019.01.14-18.17.18:479][293]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.14-18.17.18:479][293]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-18.17.18:479][293]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-18.17.18:479][293]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-18.17.40:045][573]LogRenderer: Reallocating scene render targets to support 1004x720 Format 26 NumSamples 1 (Frame:1).
+[2019.01.14-18.18.05:739][114]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface
+[2019.01.14-18.18.25:830][303]LogSlate: Window 'BP_PickupCube' being destroyed
+[2019.01.14-18.18.25:834][303]LogSlate: Window 'BP_PickupCube' being destroyed
+[2019.01.14-18.18.32:654][709]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2019.01.14-18.18.37:182][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-18.18.53:826][899]LogRenderer: Reallocating scene render targets to support 1008x720 Format 26 NumSamples 1 (Frame:6727).
+[2019.01.14-18.18.53:930][900]LogRenderer: Reallocating scene render targets to support 1012x720 Format 26 NumSamples 1 (Frame:6733).
+[2019.01.14-18.19.04:757][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-18.19.27:915][680]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-18.20.29:176][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-18.20.51:843][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-18.20.56:343][845]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.01.14-18.21.10:392][637]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2019.01.14-18.21.10:396][637]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2019.01.14-18.21.50:485][ 37]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.01.14-18.21.50:486][ 37]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.14-18.21.50:486][ 37]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2019.01.14-18.22.23:221][  1]Cmd: TRANSACTION UNDO
+[2019.01.14-18.22.23:221][  1]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-18.22.23:771][ 30]Cmd: TRANSACTION UNDO
+[2019.01.14-18.22.23:771][ 30]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-18.22.24:151][ 49]Cmd: TRANSACTION UNDO
+[2019.01.14-18.22.24:151][ 49]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-18.22.24:530][ 68]Cmd: TRANSACTION UNDO
+[2019.01.14-18.22.24:530][ 68]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-18.22.24:835][ 82]Cmd: TRANSACTION UNDO
+[2019.01.14-18.22.24:835][ 82]LogEditorTransaction: Undo Create Actors
+[2019.01.14-18.22.25:227][101]Cmd: TRANSACTION UNDO
+[2019.01.14-18.22.25:227][101]LogEditorTransaction: Undo Set Actor Visibility
+[2019.01.14-18.22.26:243][162]Cmd: TRANSACTION UNDO
+[2019.01.14-18.22.26:243][162]LogEditorTransaction: Undo Set Actor Visibility
+[2019.01.14-18.22.29:144][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-18.22.37:156][810]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.01.14-18.22.37:163][810]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap
+[2019.01.14-18.22.39:771][810]LogSlate: Window 'Save Content' being destroyed
+[2019.01.14-18.22.39:775][810]Cmd: MAP LOAD FILE="../../../../../../Users/VR Admin/Documents/GitHub/missorhit/CHOA_store_final/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.14-18.22.39:776][810]LightingResults: New page: Lighting Build
+[2019.01.14-18.22.39:777][810]LoadErrors: New page: Loading map: HMDLocomotionMap.umap
+[2019.01.14-18.22.39:807][810]MapCheck: New page: Map Check
+[2019.01.14-18.22.39:807][810]LightingResults: New page: Lighting Build
+[2019.01.14-18.22.39:841][810]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.14-18.22.39:886][810]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.14-18.22.39:886][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2019.01.14-18.22.39:886][810]LogFileHelpers: Loading map 'HMDLocomotionMap' took 0.112
+[2019.01.14-18.22.48:922][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-18.22.49:125][360]LogAIModule: Creating AISystem for world StartupMap
+[2019.01.14-18.22.49:131][360]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2019.01.14-18.22.49:159][360]Cmd: MAP LOAD FILE="../../../../../../Users/VR Admin/Documents/GitHub/missorhit/CHOA_store_final/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.14-18.22.49:159][360]LightingResults: New page: Lighting Build
+[2019.01.14-18.22.49:159][360]LoadErrors: New page: Loading map: StartupMap.umap
+[2019.01.14-18.22.49:160][360]MapCheck: New page: Map Check
+[2019.01.14-18.22.49:160][360]LightingResults: New page: Lighting Build
+[2019.01.14-18.22.49:194][360]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.14-18.22.49:236][360]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.14-18.22.49:237][360]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.156ms to complete.
+[2019.01.14-18.22.49:237][360]LogFileHelpers: Loading map 'StartupMap' took 0.079
+[2019.01.14-18.22.56:723][805]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MannequinHand_Right)
+[2019.01.14-18.22.57:929][874]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MannequinHand_Right2)
+[2019.01.14-18.23.01:184][ 67]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MannequinHand_Right)
+[2019.01.14-18.23.07:678][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-18.23.24:041][430]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.01.14-18.23.24:048][430]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2019.01.14-18.23.24:076][430]Cmd: MAP LOAD FILE="../../../../../../Users/VR Admin/Documents/GitHub/missorhit/CHOA_store_final/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.14-18.23.24:076][430]LightingResults: New page: Lighting Build
+[2019.01.14-18.23.24:077][430]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.01.14-18.23.24:078][430]MapCheck: New page: Map Check
+[2019.01.14-18.23.24:078][430]LightingResults: New page: Lighting Build
+[2019.01.14-18.23.24:106][430]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.14-18.23.24:147][430]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.14-18.23.24:148][430]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.376ms to complete.
+[2019.01.14-18.23.24:148][430]LogFileHelpers: Loading map 'MotionControllerMap' took 0.072
+[2019.01.14-18.23.34:514][ 50]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2019.01.14-18.23.36:533][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-18.23.36:656][175]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.01.14-18.23.54:858][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-18.24.03:248][730]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2019.01.14-18.24.03:254][730]LogSlate: Window 'MotionControllerPawn' being destroyed
